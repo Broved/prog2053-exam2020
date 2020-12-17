@@ -6,7 +6,10 @@ class EditUser extends LitElement {
       user: { type: Object }
     };
   }
-
+//****************************************************************************************
+// ANSWER IS SOURCED FROM LAST SEMESTERS EXAM - 
+// https://bitbucket.org/HermanDyrkorn/imt2291-eksamen2020/src/master/oppgave1-3/www/js/components/edit-user.js
+// ***************************************************************************************
   render() {
     return html`
     <head>
