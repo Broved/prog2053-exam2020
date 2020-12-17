@@ -1,3 +1,8 @@
+Kandidat nummer 10032
+
+# Comments from examinee
+I have sourced my exam answer from the suggested solution from last semesters exam - https://bitbucket.org/HermanDyrkorn/imt2291-eksamen2020/src/master/oppgave1-3/www/js/components/edit-user.js 
+
 # PROG2053 eksamen v2020
 * Lag en FORK (eller CLONE) av dette repositoriet og gi meg leserettigheter (aland.a.mendoza@ntnu.no). Det som er i repositoriet på slutten av eksamen teller som din besvarelse.
 * Legg inn kandidatnummeret ditt øverst i readme.md fila.
